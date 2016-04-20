@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "USB Webcam Rocket Launcher",
+    "description": "While you’re chatting with your buddies on MSN, this Webcam USB Rocket Launcher allows you to do more than just share videos and pictures. With this cool gadget you can wage war on your chat buddy by taking control of his rocket launcher. But beware because he’ll be in control of yours.",
+    "image_url": "http://ecx.images-amazon.com/images/I/41S4zh7hFeL.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Victorinox Secure Pro USB drive",
+    "description": "The un-hackable Victorinox Secure features AES256 technology, together with Victorinox patented unique MKI’s Schnuffi Platform Single Chip Technology. Victorinox actually offered a £100,000 prize to a group of expert hackers to crack the drive during the company’s launch event and they were unable to do so. The Secure Pro is currently available with storage capacities between 8GB and 32GB.",
+    "image_url": "http://ecx.images-amazon.com/images/I/21PIdVRBFjL.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Sudoku Toilet Paper",
+    "description": "Honestly, I don’t know how to play Sudoku but I think Sudoku fans will like this. Pull down the roll and start filling in the sudoku puzzles.",
+    "image_url": "http://ecx.images-amazon.com/images/I/41wa%2Bo0xVaL.jpg"
+  },
+  {
+    "id": "4",
+    "name": "The Darth Vader Toaster",
+    "description": "Yes, the Sith Lord makes evil toast with an image of Darth Vader. This is the only toaster that takes toast launching to a whole new…the dark side.",
+    "image_url": "http://media02.hongkiat.com/geek-products/The-Darth-Vader-Toaster_geek_gadget.jpg?v=20110218"
+  },
+  {
+    "id": "5",
+    "name": "Superman Hanger",
+    "description": "This stylish Superman Hanger is designed by Roman Ficek and available at ComuniStar – a Slovakian company that manufacture unique modern interior and furniture accessories.",
+    "image_url": "http://media02.hongkiat.com/geek-products/Superman-Hanger-geek-product.jpg?v=20110218"
+  },
+  {
+    "id": "6",
+    "name": "The Wearable Keyboard",
+    "description": "This unusual wearable gadget is built into a pair of fashionable designer jeans by Erik De Nijs. It has a built-in keyboard, mouse, and computer speakers that play audio.",
+    "image_url": "http://media02.hongkiat.com/geek-products/The-Wearable-Keyboard-geek-gadget.jpg?v=20110218"
+  },
+  {
+    "id": "7",
+    "name": "Iceblox Ice Cube Puzzle Tray",
+    "description": "Serving drinks with Tetris shaped ice-cubes is absolutely going to get your visitors to notice the drinks and they will surely for more of them.",
+    "image_url": "http://media02.hongkiat.com/geek-products/Iceblox-Ice-Cube-Puzzle-Tray.jpg?v=20110218"
+  }
+]

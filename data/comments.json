@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "1",
+    "product_id": "1",
+    "text": "War chat! I love it!",
+    "created_at": "2016-04-20 10:05:34"
+  },
+  {
+    "id": "2",
+    "product_id": "2",
+    "text": "In your face Macgyver :)",
+    "created_at": "2016-04-20 10:05:34"
+  },
+  {
+    "id": "3",
+    "product_id": "3",
+    "text": "What about the ink? It dries fast?",
+    "created_at": "2016-04-20 10:05:34"
+  },
+  {
+    "id": "4",
+    "product_id": "4",
+    "text": "Luke is gonna love this gift",
+    "created_at": "2016-04-20 10:05:34"
+  },
+  {
+    "id": "5",
+    "product_id": "5",
+    "text": "This hanger looks really strong",
+    "created_at": "2016-04-20 10:05:34"
+  },
+  {
+    "id": "6",
+    "product_id": "6",
+    "text": "This does not look very comfortable...",
+    "created_at": "2016-04-20 10:05:34"
+  },
+  {
+    "id": "7",
+    "product_id": "7",
+    "text": "Really nice",
+    "created_at": "2016-04-20 10:05:34"
+  }
+]
